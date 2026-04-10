@@ -1,0 +1,173 @@
+{
+  "maths": [
+    {
+      "question": "What is 12 × 8?",
+      "options": ["96", "88", "108", "84"],
+      "answer": "96"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["20", "25", "30", "35"],
+      "answer": "30"
+    },
+    {
+      "question": "Solve: 25 + 35 = ?",
+      "options": ["50", "60", "70", "55"],
+      "answer": "60"
+    },
+    {
+      "question": "What is 100 ÷ 4?",
+      "options": ["20", "25", "30", "40"],
+      "answer": "25"
+    },
+    {
+      "question": "What is the value of π (approx)?",
+      "options": ["2.14", "3.14", "4.14", "3.41"],
+      "answer": "3.14"
+    },
+    {
+      "question": "What is 7²?",
+      "options": ["14", "49", "56", "77"],
+      "answer": "49"
+    },
+    {
+      "question": "Simplify: 18 - 9",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "question": "What is 9 × 9?",
+      "options": ["72", "81", "99", "108"],
+      "answer": "81"
+    },
+    {
+      "question": "What is 50 + 25?",
+      "options": ["65", "70", "75", "80"],
+      "answer": "75"
+    }
+  ],
+  "science": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "80°C", "100°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which organ pumps blood?",
+      "options": ["Lungs", "Brain", "Heart", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What force pulls objects toward Earth?",
+      "options": ["Magnetism", "Friction", "Gravity", "Pressure"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "Which is the largest organ in the human body?",
+      "options": ["Heart", "Skin", "Liver", "Brain"],
+      "answer": "Skin"
+    },
+    {
+      "question": "What is HCl?",
+      "options": ["Hydrochloric acid", "Hydrogen", "Helium chloride", "Hydrate"],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "question": "Which vitamin comes from sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^5 m/s", "3 × 10^7 m/s"],
+      "answer": "3 × 10^8 m/s"
+    }
+  ],
+  "dti": [
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Print Unit",
+        "Control Processing Unit"
+      ],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which of these is an input device?",
+      "options": ["Monitor", "Keyboard", "Printer", "Speaker"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "What does RAM stand for?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Run Active Memory",
+        "Random Active Module"
+      ],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Which is a web browser?",
+      "options": ["Windows", "Google Chrome", "MS Word", "Excel"],
+      "answer": "Google Chrome"
+    },
+    {
+      "question": "Which is an operating system?",
+      "options": ["Chrome", "Google", "Windows", "YouTube"],
+      "answer": "Windows"
+    },
+    {
+      "question": "What is a file extension for a website page?",
+      "options": [".jpg", ".html", ".mp3", ".exe"],
+      "answer": ".html"
+    },
+    {
+      "question": "Which device stores data permanently?",
+      "options": ["RAM", "ROM", "CPU", "Register"],
+      "answer": "ROM"
+    },
+    {
+      "question": "What does WWW stand for?",
+      "options": [
+        "World Wide Web",
+        "World Web Window",
+        "Web World Wide",
+        "Wide World Web"
+      ],
+      "answer": "World Wide Web"
+    },
+    {
+      "question": "Which is a programming language?",
+      "options": ["HTML", "CSS", "Python", "HTTP"],
+      "answer": "Python"
+    },
+    {
+      "question": "Which key is used to delete?",
+      "options": ["Enter", "Shift", "Backspace", "Tab"],
+      "answer": "Backspace"
+    }
+  ]
+}

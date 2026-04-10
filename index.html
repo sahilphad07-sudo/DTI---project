@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div id="container">
+    <div id="leftdiv">
+        SUBJECTS
+
+        <div class="sub" onclick="loadQuiz('maths')">
+            <img src="maths logo.jpg" alt="math.sub">
+            MATHS
+        </div>
+
+        <div class="sub" onclick="loadQuiz('science')">
+            <img src="science.webp" alt="science.sub">
+            SCIENCE
+        </div>
+
+        <div class="sub" onclick="loadQuiz('dti')">
+            <img src="dti.webp" alt="dti.sub">
+            DTI
+        </div>
+
+    </div>
+
+    <div id="rightdiv">
+
+        <div id="info">
+            <h1>choose a subject to start the quiz</h1>
+        </div>
+
+         <div id="currentSubject">Current Subject: None</div>
+       
+        <div id="quiz" style="display:none;">
+            <h2 id="question"></h2>
+
+            <div id="options"></div>
+
+            <button onclick="prev()" id="prevbtn">Previous</button>
+            <button onclick="next()" id="nextbtn">Next</button>
+        </div>
+
+    </div>
+</div>
+    <script src="app.js"></script>
+
+</body>
+</html>

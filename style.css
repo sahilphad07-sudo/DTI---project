@@ -1,0 +1,100 @@
+
+#container{
+    display: flex;
+}
+
+#leftdiv{
+    height: 100vh;
+    width: 220px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+#rightdiv {
+    margin-left: 220px;
+    height: 100vh;
+    width: calc(100% - 220px);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* vertical center */
+    align-items: center;       /* horizontal center */
+    text-align: center;
+}
+
+#leftdiv h1, 
+#leftdiv {
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+
+.sub{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px 0;
+    cursor: pointer;
+}
+
+
+.sub img{
+    width: 160px;
+    height: 140px;
+    object-fit: cover;  
+    border-radius: 18px;
+    padding-bottom: 10px;
+}
+
+
+.sub{
+    font-size: 16px;
+    font-weight: bold;
+}
+#info{
+    text-align: center;
+}
+#nextbtn{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#prevbtn{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#quiz{
+    width: 500px;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+#options label{
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: left;
+}
