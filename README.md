@@ -3,6 +3,9 @@
 A simple Quiz Web Application built using HTML, CSS, JavaScript, and JSON.
 Users can select a subject and attempt multiple-choice questions.
 
+you can see webpage from here
+https://sahilphad07-sudo.github.io/DTI---project/
+
 🚀 Features
 Choose different subjects
 Display multiple-choice questions
